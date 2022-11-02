@@ -35,6 +35,6 @@ We are tech business for software.
 <a id="https://github.com/gu-lak/mangangaba#busts_in_silhouette-colaboradores"></a>
 ## :busts_in_silhouette: Crowdfunding
 
-- [Donate](https://mangangaba.com.br/assets/pages/links.html) ;&nbsp;
+[Donate](https://mangangaba.com.br/assets/pages/links.html)
 
 <br>
